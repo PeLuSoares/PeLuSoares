@@ -13,10 +13,13 @@
 - 👨‍🎓 Estudante de Sistemas de informação, área que tenho paixão desde pequeno.  
   
 
-- 🖥️ Futuro desenvolvedor full-stack.  
+- 🖥️ Futuro desenvolvedor back-end | Cyber Security.  
   
 
 - 🌎 Brasil, Rio de Janeiro.  
+
+
+- 📜 Ojetivo principal: Comptia Security+: Exam Sy0-601
   
 
 - 📧 Caso queira entrar em contato, segue aqui meu e-mail: pedropitanga@soulasalle.com.br   
